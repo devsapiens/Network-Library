@@ -9,7 +9,6 @@ using namespace std;
 //TODO : SessionBundle Ã³¸® Thread 
 unsigned __stdcall ThreadFunc(void* network) 
 {
-
 	return 0;
 }
 
